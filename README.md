@@ -1,0 +1,2 @@
+## Automated Plant Watering
+Using Arudino and a small water pump to keep my plants alive while away. See [example video](https://youtube.com/shorts/bPRZTBzndXc) and [blog post](https://adamgannon.com/2023/04/22/automated-watering-system-to-keep-plants-alive/) for more details.
